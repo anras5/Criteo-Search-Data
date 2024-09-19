@@ -1,7 +1,7 @@
 [project]
 name = "criteo-search-data"
 version = "0.1.0"
-description = "Add your description here"
+description = "EDA for CRITEO SPONSORED SEARCH CONVERSION LOG DATASET"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
